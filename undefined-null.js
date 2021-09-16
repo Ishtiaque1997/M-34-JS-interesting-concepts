@@ -2,7 +2,7 @@
 // 2. no return from the function
 //3. return is written but nothing after that
 //4. Parameter that is not passed
-//5. ret  to access property that doesn't exist in an object
+//5. try  to access property that doesn't exist in an object
 // 6. when there is no element in an array index
 // 7. accessing deleted array element
 // 8. explicitly set value to undefined
